@@ -1,0 +1,198 @@
+{
+  "ticker": "SRVCABLE",
+  "as_of": "2026-09-23",
+  "snapshot": [
+    {
+      "text": "Sarvottam Cables Ltd, listed as SRVCABLE, manufactures power cables, wires and conductors. Its latest supplied results cover the quarter ended 30 June 2026.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "Sarvottam Cables Ltd (NSE: SRVCABLE), a manufacturer of power cables, wires and conductors, today announced results for the quarter ended 30 June 2026."
+        }
+      ]
+    },
+    {
+      "text": "Consolidated quarterly revenue rose 18.0% to ₹1,248 crore; profit after tax rose 5.9% to ₹82 crore. Revenue growth alone does not establish volume growth.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "**Consolidated highlights (Q1 FY27 vs Q1 FY26)**"
+        },
+        {
+          "source_id": "S3",
+          "quote": "| Revenue from operations | 1,248 | 1,058 | +18.0% |"
+        },
+        {
+          "source_id": "S3",
+          "quote": "| Profit after tax | 82 | 77 | +5.9% |"
+        }
+      ]
+    },
+    {
+      "text": "Operating earnings, measured by EBITDA, increased only 2.6% to ₹140 crore. The margin fell from 12.9% to 11.2%, showing weaker profitability per rupee of revenue.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "| EBITDA | 140 | 136 | +2.6% |\n| EBITDA margin | 11.2% | 12.9% | −170 bps |"
+        }
+      ]
+    },
+    {
+      "text": "At June 2026, promoters held 58.2%; pledged shares were 4.1% of promoter holding, down from 11.5% a year earlier. Pledging remains an ownership risk despite that reduction.",
+      "evidence": [
+        {
+          "source_id": "S8",
+          "quote": "| Category | Jun 2026 | Mar 2026 | Jun 2025 |\n|---|---|---|---|\n| Promoters & promoter group | 58.2% | 58.2% | 58.4% |\n| Of which pledged (as % of promoter holding) | 4.1% | 6.0% | 11.5% |"
+        },
+        {
+          "source_id": "S4",
+          "quote": "lenders can sell the pledged shares if the stock price falls sharply."
+        }
+      ]
+    }
+  ],
+  "bull_case": [
+    {
+      "text": "Orders support the growth case: the June order book reached ₹3,900 crore versus ₹3,150 crore a year earlier. Exports contributed 21% of revenue versus 16%.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "Order book stood at ₹3,900 crore as of 30 June 2026, up from ₹3,150 crore a year ago."
+        },
+        {
+          "source_id": "S3",
+          "quote": "Exports contributed 21% of revenue (Q1 FY26: 16%)."
+        }
+      ]
+    },
+    {
+      "text": "Management expects Bharuch to add about 30% cable capacity and start commercial production in Q3 FY27. It maintains 15–17% FY27 revenue growth guidance; these are expectations, not completed execution.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "The new Bharuch (Gujarat) plant, adding about 30% to cable capacity, is on track to begin commercial production in Q3 FY27."
+        },
+        {
+          "source_id": "S2",
+          "quote": "For the full year FY27 we are maintaining our revenue growth guidance of 15 to 17 percent."
+        }
+      ]
+    }
+  ],
+  "bear_case": [
+    {
+      "text": "Copper cost recovery takes time: management says about two-thirds of contracts allow price adjustments, with a one-to-two-quarter lag. This leaves near-term margin recovery uncertain.",
+      "evidence": [
+        {
+          "source_id": "S2",
+          "quote": "Mostly copper. About two-thirds of our contracts have price-variation clauses, but they reset with a lag of one to two quarters."
+        }
+      ]
+    },
+    {
+      "text": "Collection slowed as receivable days rose from 78 to 96. Management reports no defaults, but slower utility payments coincide with ₹620 crore Bharuch spending, 70% completed, funded mainly internally plus term debt.",
+      "evidence": [
+        {
+          "source_id": "S2",
+          "quote": "receivable days increased from 78 to 96 over the last year."
+        },
+        {
+          "source_id": "S2",
+          "quote": "That is mainly two large state utility customers, where payments are slower. We are monitoring this closely and have not seen any defaults."
+        },
+        {
+          "source_id": "S2",
+          "quote": "Bharuch capex is ₹620 crore in total, about 70 percent already spent. It is funded mainly through internal accruals and some term debt."
+        }
+      ]
+    },
+    {
+      "text": "The latest adverse disclosure reports a ₹46.3 crore GST demand including interest and penalty. Management intends to appeal; its expectation of no material impact does not establish the eventual financial cost.",
+      "evidence": [
+        {
+          "source_id": "S7",
+          "quote": "raising a demand of **₹46.3 crore** (including interest and penalty)"
+        },
+        {
+          "source_id": "S7",
+          "quote": "intends to file an appeal before the appropriate authority. The Company does not expect any material impact on its financial position or operations."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    {
+      "text": "Why does reporting show ₹1,428 crore and 35% growth? Prefer the original quarterly release’s ₹1,248 crore and 18.0%; the packet does not explain the discrepancy.",
+      "evidence": [
+        {
+          "source_id": "S1",
+          "quote": "Revenue from operations rose to **₹1,428 crore**, a 35% increase"
+        },
+        {
+          "source_id": "S3",
+          "quote": "| Revenue from operations | 1,248 | 1,058 | +18.0% |"
+        }
+      ]
+    },
+    {
+      "text": "Has the GST appeal been filed, and what payment or provision is required? The disclosure establishes an intention, without confirming filing or a successful outcome.",
+      "evidence": [
+        {
+          "source_id": "S7",
+          "quote": "The Company believes it has a strong case on merits, based on legal advice, and intends to file an appeal before the appropriate authority."
+        }
+      ]
+    },
+    {
+      "text": "What is valuation at the as-of date? The supplied ₹1,012 price is historical; current pricing, share count and full-year earnings evidence are missing.",
+      "evidence": [
+        {
+          "source_id": "S1",
+          "quote": "Shares of the company fell 3.2% to ₹1,012 on the NSE on Friday after the results."
+        }
+      ]
+    }
+  ],
+  "source_decisions": [
+    {
+      "source_id": "S1",
+      "disposition": "context",
+      "reason": "Relevant reporting supplies a historical price, but its revenue figures conflict with the original quarterly release and are not preferred."
+    },
+    {
+      "source_id": "S2",
+      "disposition": "use",
+      "reason": "The packet-described company transcript provides relevant management expectations, contract terms, collection trends and funding details, without independent authentication."
+    },
+    {
+      "source_id": "S3",
+      "disposition": "use",
+      "reason": "The packet-described original company release identifies the issuer and supplies the preferred quarterly financial figures and expansion expectations, without independent authentication."
+    },
+    {
+      "source_id": "S4",
+      "disposition": "context",
+      "reason": "Historical pledging reporting explains the ownership risk mechanism, while the newer shareholding summary establishes the latest supplied position."
+    },
+    {
+      "source_id": "S5",
+      "disposition": "exclude",
+      "reason": "The promotional stock-tips post contains unsupported assertions and embedded instructions that have no evidentiary authority."
+    },
+    {
+      "source_id": "S6",
+      "disposition": "exclude",
+      "reason": "The business is a local television and broadband operator owned by Suresh Patil, not the listed cable manufacturer."
+    },
+    {
+      "source_id": "S7",
+      "disposition": "use",
+      "reason": "The packet-described exchange disclosure supplies the latest adverse event and management’s intended response, without independently authenticating its official status."
+    },
+    {
+      "source_id": "S8",
+      "disposition": "use",
+      "reason": "The packet-described shareholding filing provides the latest supplied ownership and pledging figures with their correct denominator, without independent authentication."
+    }
+  ]
+}

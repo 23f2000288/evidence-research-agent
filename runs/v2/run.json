@@ -1,0 +1,15 @@
+{
+  "status": "unvalidated",
+  "ticker": "SRVCABLE",
+  "as_of": "2026-09-23",
+  "version": "v2",
+  "model": "gpt-6.1-sol",
+  "provider": "codex exec / existing local login",
+  "started_utc": "2026-10-15T09:18:57.280189+00:00",
+  "prompt_sha256": "47dd5a59de5a09cc39456ed3bad5f02561055deb56d132e157a259b44402be26",
+  "document_count": 8,
+  "skipped": [],
+  "output": "brief-unvalidated.md",
+  "prose_words": 139,
+  "seconds": 44.08
+}

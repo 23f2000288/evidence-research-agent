@@ -1,0 +1,10 @@
+{
+  "type": "scripted browser screen capture",
+  "viewport": "1600x900",
+  "seconds": 166,
+  "captions": true,
+  "synthetic_narration": false,
+  "errors": [],
+  "mp4_duration": "00:02:45.56",
+  "mp4_bytes": 4867070
+}

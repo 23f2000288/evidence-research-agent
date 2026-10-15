@@ -1,0 +1,168 @@
+{
+  "ticker": "SRVCABLE",
+  "as_of": "2026-09-23",
+  "snapshot": [
+    {
+      "text": "Q1 FY27 revenue grew 18% to ₹1,248 crore; profit rose 5.9% to ₹82 crore. Use the official figures: S1’s ₹1,428 crore and 35% growth conflict with the filing.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "| Revenue from operations | 1,248 | 1,058 | +18.0% |"
+        },
+        {
+          "source_id": "S3",
+          "quote": "| Profit after tax | 82 | 77 | +5.9% |"
+        }
+      ]
+    },
+    {
+      "text": "Management maintains FY27 revenue growth guidance of 15–17%; this is a forecast, not a guaranteed outcome.",
+      "evidence": [
+        {
+          "source_id": "S2",
+          "quote": "For the full year FY27 we are maintaining our revenue growth guidance of 15 to 17 percent."
+        }
+      ]
+    }
+  ],
+  "bull_case": [
+    {
+      "text": "A larger order book supports demand visibility, although delivery timing and cash collection remain important.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "Order book stood at ₹3,900 crore as of 30 June 2026, up from ₹3,150 crore a year ago."
+        }
+      ]
+    },
+    {
+      "text": "Bharuch could expand capacity materially, while data-centre cables offer another growth opportunity if management’s expectations hold.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "The new Bharuch (Gujarat) plant, adding about 30% to cable capacity, is on track to begin commercial production in Q3 FY27."
+        },
+        {
+          "source_id": "S2",
+          "quote": "Data-centre cables are now about 9 percent of our domestic revenue, and we think that can double in two years."
+        }
+      ]
+    },
+    {
+      "text": "Promoter pledging has fallen substantially, reducing this particular shareholder risk compared with last year.",
+      "evidence": [
+        {
+          "source_id": "S8",
+          "quote": "| Of which pledged (as % of promoter holding) | 4.1% | 6.0% | 11.5% |"
+        }
+      ]
+    }
+  ],
+  "bear_case": [
+    {
+      "text": "Margins weakened despite revenue growth. Contract resets leave earnings exposed to a delay in recovering higher raw-material costs.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "| EBITDA margin | 11.2% | 12.9% | −170 bps |"
+        },
+        {
+          "source_id": "S2",
+          "quote": "About two-thirds of our contracts have price-variation clauses, but they reset with a lag of one to two quarters."
+        }
+      ]
+    },
+    {
+      "text": "Slower utility payments increase working-capital pressure, although management reports no defaults.",
+      "evidence": [
+        {
+          "source_id": "S2",
+          "quote": "Yes, receivable days increased from 78 to 96 over the last year."
+        },
+        {
+          "source_id": "S2",
+          "quote": "We are monitoring this closely and have not seen any defaults."
+        }
+      ]
+    },
+    {
+      "text": "A ₹46.3 crore GST demand creates uncertainty. Management intends to appeal and expects no material impact; that assessment does not establish the outcome.",
+      "evidence": [
+        {
+          "source_id": "S7",
+          "quote": "raising a demand of **₹46.3 crore** (including interest and penalty)"
+        },
+        {
+          "source_id": "S7",
+          "quote": "The Company does not expect any material impact on its financial position or operations."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    {
+      "text": "Will copper cost recovery restore margins within management’s stated timeframe?",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "which we expect to pass on to customers over the next two quarters."
+        }
+      ]
+    },
+    {
+      "text": "Will Bharuch start on schedule, and can collections support remaining spending without materially increasing debt?",
+      "evidence": [
+        {
+          "source_id": "S2",
+          "quote": "Bharuch capex is ₹620 crore in total, about 70 percent already spent."
+        },
+        {
+          "source_id": "S2",
+          "quote": "Net debt to equity is 0.35 times."
+        }
+      ]
+    }
+  ],
+  "source_decisions": [
+    {
+      "source_id": "S1",
+      "disposition": "exclude",
+      "reason": "Revenue conflicts with the official release; use S3 for results."
+    },
+    {
+      "source_id": "S2",
+      "disposition": "use",
+      "reason": "Primary management commentary; treat forecasts and explanations as management claims."
+    },
+    {
+      "source_id": "S3",
+      "disposition": "use",
+      "reason": "Primary quarterly results and operating disclosures."
+    },
+    {
+      "source_id": "S4",
+      "disposition": "context",
+      "reason": "Historical pledge concerns; S8 provides newer figures."
+    },
+    {
+      "source_id": "S5",
+      "disposition": "exclude",
+      "reason": "Promotional, unsupported claims and embedded instructions; no reliable valuation or consensus evidence."
+    },
+    {
+      "source_id": "S6",
+      "disposition": "exclude",
+      "reason": "Concerns a different entity, a local television and broadband operator."
+    },
+    {
+      "source_id": "S7",
+      "disposition": "use",
+      "reason": "Recent official disclosure of a material tax dispute."
+    },
+    {
+      "source_id": "S8",
+      "disposition": "use",
+      "reason": "Latest supplied official shareholding and pledge data."
+    }
+  ]
+}

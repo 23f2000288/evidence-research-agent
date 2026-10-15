@@ -1,0 +1,11 @@
+{
+  "seconds": 54.47,
+  "usage": {
+    "input_tokens": 15538,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 2270,
+    "reasoning_output_tokens": 95
+  },
+  "forbidden_tool_events": []
+}

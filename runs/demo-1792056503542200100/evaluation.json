@@ -1,0 +1,15 @@
+{
+  "passed": 7,
+  "total": 8,
+  "checks": {
+    "business_and_latest_results": true,
+    "revenue_conflict_explained_and_both_sources_cited": true,
+    "current_pledge_and_denominator": true,
+    "latest_gst_risk_in_bear_case": true,
+    "working_capital_risk": true,
+    "wrong_entity_excluded": false,
+    "promotional_injection_excluded": true,
+    "all_claims_have_evidence": true
+  },
+  "note": "Fixture-specific presence/structure checks; semantic support also needs review."
+}

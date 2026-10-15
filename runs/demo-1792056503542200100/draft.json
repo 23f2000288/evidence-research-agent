@@ -1,0 +1,190 @@
+{
+  "ticker": "SRVCABLE",
+  "as_of": "2026-09-23",
+  "snapshot": [
+    {
+      "text": "Sarvottam Cables Ltd manufactures power cables, wires and conductors and identifies its NSE ticker as SRVCABLE. This distinguishes it from the similarly named local television and broadband operator.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "Sarvottam Cables Ltd (NSE: SRVCABLE), a manufacturer of power cables, wires and conductors"
+        },
+        {
+          "source_id": "S6",
+          "quote": "Sarvottam Cable Network, a local cable TV and broadband operator"
+        }
+      ]
+    },
+    {
+      "text": "For Q1 FY27, consolidated revenue was ₹1,248 crore, up 18.0%, while net profit rose 5.9% to ₹82 crore. Profit growth lagged revenue growth.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "**Consolidated highlights (Q1 FY27 vs Q1 FY26)**\n\n| ₹ crore | Q1 FY27 | Q1 FY26 | YoY |\n|---|---|---|---|\n| Revenue from operations | 1,248 | 1,058 | +18.0% |\n| EBITDA | 140 | 136 | +2.6% |\n| EBITDA margin | 11.2% | 12.9% | −170 bps |\n| Profit after tax | 82 | 77 | +5.9% |"
+        }
+      ]
+    },
+    {
+      "text": "Management maintained FY27 revenue growth guidance of 15–17%. This is an expectation; the packet supplies no quantified volume growth, so revenue growth alone cannot establish higher physical sales.",
+      "evidence": [
+        {
+          "source_id": "S2",
+          "quote": "For the full year FY27 we are maintaining our revenue growth guidance of 15 to 17 percent."
+        },
+        {
+          "source_id": "S3",
+          "quote": "| Revenue from operations | 1,248 | 1,058 | +18.0% |"
+        }
+      ]
+    },
+    {
+      "text": "The latest supplied ownership filing, dated to June 2026, shows promoters holding 58.2%. Pledged shares were 4.1% of promoter holding, down from 11.5% in June 2025; exposure remains.",
+      "evidence": [
+        {
+          "source_id": "S8",
+          "quote": "# Sarvottam Cables Ltd: shareholding pattern as of 30 June 2026\n\n| Category | Jun 2026 | Mar 2026 | Jun 2025 |\n|---|---|---|---|\n| Promoters & promoter group | 58.2% | 58.2% | 58.4% |\n| Of which pledged (as % of promoter holding) | 4.1% | 6.0% | 11.5% |"
+        }
+      ]
+    }
+  ],
+  "bull_case": [
+    {
+      "text": "The June order book grew to ₹3,900 crore from ₹3,150 crore a year earlier. Exports reached 21% of revenue versus 16%, supporting a broader mix of demand.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "- Order book stood at ₹3,900 crore as of 30 June 2026, up from ₹3,150 crore a year ago.\n- Exports contributed 21% of revenue (Q1 FY26: 16%)."
+        }
+      ]
+    },
+    {
+      "text": "Bharuch could add about 30% to cable capacity, with production planned for Q3 FY27. Management also expects data-centre cables, currently about 9% of domestic revenue, to double that share within two years.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "The new Bharuch (Gujarat) plant, adding about 30% to cable capacity, is on track to begin commercial production in Q3 FY27."
+        },
+        {
+          "source_id": "S2",
+          "quote": "Data-centre cables are now about 9 percent of our domestic revenue, and we think that can double in two years."
+        }
+      ]
+    }
+  ],
+  "bear_case": [
+    {
+      "text": "Operating earnings margin fell to 11.2% from 12.9%. Management attributes pressure mostly to copper; price adjustments cover about two-thirds of contracts but lag one to two quarters.",
+      "evidence": [
+        {
+          "source_id": "S3",
+          "quote": "| EBITDA margin | 11.2% | 12.9% | −170 bps |"
+        },
+        {
+          "source_id": "S2",
+          "quote": "Mostly copper. About two-thirds of our contracts have price-variation clauses, but they reset with a lag of one to two quarters."
+        }
+      ]
+    },
+    {
+      "text": "Receivable days increased from 78 to 96, tying up cash as utility payments slowed. Bharuch's ₹620 crore investment was about 70% spent, funded mainly internally plus term debt; completion still needs funding.",
+      "evidence": [
+        {
+          "source_id": "S2",
+          "quote": "receivable days increased from 78 to 96 over the last year. That is mainly two large state utility customers, where payments are slower."
+        },
+        {
+          "source_id": "S2",
+          "quote": "Bharuch capex is ₹620 crore in total, about 70 percent already spent. It is funded mainly through internal accruals and some term debt."
+        }
+      ]
+    },
+    {
+      "text": "September's GST demand totals ₹46.3 crore including interest and penalty. Management intends to appeal and expects no material impact, but neither a filed appeal nor a successful outcome is established.",
+      "evidence": [
+        {
+          "source_id": "S7",
+          "quote": "raising a demand of **₹46.3 crore** (including interest and penalty) relating to input tax credit claimed for FY2020-21 and FY2021-22."
+        },
+        {
+          "source_id": "S7",
+          "quote": "intends to file an appeal before the appropriate authority. The Company does not expect any material impact on its financial position or operations."
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    {
+      "text": "Why does reporting give revenue of ₹1,428 crore and 35% growth? Prefer the original company results' ₹1,248 crore and 18.0%; the discrepancy remains unexplained.",
+      "evidence": [
+        {
+          "source_id": "S1",
+          "quote": "Revenue from operations rose to **₹1,428 crore**, a 35% increase from the year-ago period"
+        },
+        {
+          "source_id": "S3",
+          "quote": "| Revenue from operations | 1,248 | 1,058 | +18.0% |"
+        }
+      ]
+    },
+    {
+      "text": "Has the GST appeal been filed, and what payment or provision will be required? The disclosure establishes only an intention to appeal.",
+      "evidence": [
+        {
+          "source_id": "S7",
+          "quote": "intends to file an appeal before the appropriate authority."
+        }
+      ]
+    },
+    {
+      "text": "What is the as-of valuation? The packet gives an older ₹1,012 share price, but lacks current pricing, share count and sufficient earnings data for a valuation assessment.",
+      "evidence": [
+        {
+          "source_id": "S1",
+          "quote": "Shares of the company fell 3.2% to ₹1,012 on the NSE on Friday after the results."
+        }
+      ]
+    }
+  ],
+  "source_decisions": [
+    {
+      "source_id": "S1",
+      "disposition": "context",
+      "reason": "Relevant reporting supplies historical price context and a revenue discrepancy, but the original company results take precedence over its conflicting figures."
+    },
+    {
+      "source_id": "S2",
+      "disposition": "use",
+      "reason": "The packet describes this as a company transcript containing relevant management expectations and funding and collection disclosures, although its official status is not independently authenticated."
+    },
+    {
+      "source_id": "S3",
+      "disposition": "use",
+      "reason": "The packet identifies this as the original company results release, providing the preferred financial figures and business identity, with official status not independently authenticated."
+    },
+    {
+      "source_id": "S4",
+      "disposition": "context",
+      "reason": "The 2024 pledge report is historical context and cannot establish current ownership risk given the newer June 2026 filing."
+    },
+    {
+      "source_id": "S5",
+      "disposition": "exclude",
+      "reason": "This promotional stock-tips post repeats contradicted revenue growth and contains embedded instructions that are untrusted data."
+    },
+    {
+      "source_id": "S6",
+      "disposition": "context",
+      "reason": "Its distinct business and owner resolve the name collision, so it is used solely for identity checking and its penalty is excluded from the issuer assessment."
+    },
+    {
+      "source_id": "S7",
+      "disposition": "use",
+      "reason": "This is the latest supplied adverse company disclosure and establishes the GST demand and intended appeal, with official status only a packet metadata claim."
+    },
+    {
+      "source_id": "S8",
+      "disposition": "use",
+      "reason": "This is the latest supplied ownership evidence and preserves the promoter-holding pledge denominator, with official status not independently authenticated."
+    }
+  ]
+}
